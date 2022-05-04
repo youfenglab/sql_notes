@@ -1,6 +1,6 @@
 {
   "sql_notes": {
     "Overview": "/",
-    "module name here": "core.html"
+    "Connect to MySql database": "setup.html"
   }
 }

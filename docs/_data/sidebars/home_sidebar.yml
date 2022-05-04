@@ -10,8 +10,8 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
-      url: core.html
+      title: Connect to MySql database
+      url: setup.html
     output: web
     title: sql_notes
   output: web
